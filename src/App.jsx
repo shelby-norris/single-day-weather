@@ -1,4 +1,5 @@
 import "./App.css";
+import Weather from "./components/Weather";
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <p>Your personal weatherman!</p>
       </header>
       <main>
-        
+        <Weather />
       </main>
       <footer></footer>
     </>
