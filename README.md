@@ -10,9 +10,8 @@ This is a fairly simple app in its function. When a US city is entered, the app 
 
 The default unit of measurement for ***[this API](https://openweathermap.org/api)*** is *standard*. OpenWeather offers an optional units parameter, which allows developers to display temperatures in their preferred unit.
 
-
 > ### Available Units
 >
 > - Standard (ex: Kelvin)
 > - Metric  (ex: Celsius)
-> - Imperial (ex: Farenheit)
+> - Imperial (ex: Fahrenheit)
